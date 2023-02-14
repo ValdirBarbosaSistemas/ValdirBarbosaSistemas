@@ -4,7 +4,7 @@
 
 - 🎓 Tecnólogo em Sistemas para Internet - UNIESP
 - 🌱 Sempre em busca de conhecimento
-- 🔭 Em transição de carreira para #devBackEnd e um pouco de #devFrontEnd. Trabalhando atualmente na #VoxTecnologia como Analista de Suporte.
+- 🔭 Em transição de carreira para #devBackEnd e #devFrontEnd. Trabalhando atualmente na #VoxTecnologia como Analista de Suporte.
 - 🌱 Atualmente minha área de conhecimento é Java com todo o ecosistema Spring. Tenho conhecimentos básicos em PHP e atualmente estudando JavaScript
 - 😄 Pronouns: ele/dele
 - ⚡ A melhor coisa é estudar e seguir em frente
